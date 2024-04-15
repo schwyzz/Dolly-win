@@ -6,5 +6,4 @@ int main() {
 	_getch();
 	printf(" \n Для выхода нажми кнопку\n");
 	_getch();
-
 }
